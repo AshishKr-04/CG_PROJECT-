@@ -12,7 +12,7 @@ This is a simple animated simulation of the Solar System written in **C++** usin
 - Smooth circular motion using trigonometry
 - Zoom in and out (`+` and `-` keys)
 - Exit with `ESC` key
-
+  
 ---
 
 ## 🧱 Requirements
